@@ -67,7 +67,7 @@ body{
     color:white;
 
 }
-.mathbutton{
+.mathbutton:hover{
     transition: .5s;
     background: linear-gradient( rgba(114, 243, 237, 0.87), #faf4f4);
 }   
