@@ -2,6 +2,8 @@ body{
     background-image: url("https://image.freepik.com/free-vector/abstract-futuristic-background-with-blue-purple-particles_1017-25226.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100%;
+
 }
 
 .container{
